@@ -30,7 +30,8 @@ This project showcases my skills, projects, certifications, and journey as a dev
 
 ## 📸 Preview
 
-<img src="hero.png" alt="Portfolio Preview" width="100%"/>
+<img width="1893" height="905" alt="Screenshot 2026-05-25 120625" src="https://github.com/user-attachments/assets/102bce81-add8-4d62-878c-deb8ab6edafe" />
+
 
 ---
 
